@@ -1,5 +1,14 @@
-### Hi there 👋
+# Hi there 👋
 Im a 16 years old beginner frontend developer. I create sites mostly in Nextjs, I plan to learn Vue and Angular. Also I want to try to create my own game, for this I will have to learn some c# or c++. Someday, maybe I'll learn.
+
+### My skills
+- HTML5 | CSS3 | Javascript
+- React/Next | Vue | Redux | Typescript
+- Strapi and Firebase ~ For backend
+
+
+
+
 
 <!--
 **NineSirius/ninesirius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
