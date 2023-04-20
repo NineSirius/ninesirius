@@ -3,7 +3,7 @@ Im a 16 years old beginner frontend developer. I create sites mostly in Nextjs, 
 
 ### My skills
 - HTML5 | CSS3 | Javascript
-- React/Redux, React/Next | Vue | Typescript
+- React/Redux, React/Next | Vue | React Native
 - Strapi and Firebase ~ For backend
 
 #### Some of the libraries I use are:
