@@ -1,14 +1,18 @@
 # Hi there 👋
-Im a 16 years old beginner frontend developer. I create sites mostly in Nextjs, I plan to learn Vue and Angular. Also I want to try to create my own game, for this I will have to learn some c# or c++. Someday, maybe I'll learn.
+Im a 16 years old beginner frontend developer. I create sites mostly in Nextjs, I plan to learn dart and GO. Also I want to try to create my own game, for this I will have to learn some c# or c++. Someday, maybe I'll learn.
 
-### My skills
-- HTML5 | CSS3 | Javascript
-- React/Redux, Next.js | Vue.js/Pinia | React Native
-- Strapi and Firebase ~ For backend
+### About me
+- 🔭 I’m currently working in (Discovery Studio)[https://discoverystudio.org/en]
+- 🌱 I’m currently learning Python and Dart
+- 💬 Ask me about 🧑‍💻 JavaScript, 🔥 Strapi
+- 📫 How to reach me: 📧 (me@yamankatby.com)[mailto://me@yamankatby.com], 🔵 (https://t.me/godlydude)[https://t.me/godlydude] 
+- ⚡ Fun fact: Skill
 
-#### Some of the libraries I use are:
-- Ky, Axios (for server and client requests)
-- clsx, react-tabs
+
+### Skills 
+- 🌐 React/Next | Vue/Nuxt | Pinia and Redux
+- 📱 React Native
+
 
 
 
