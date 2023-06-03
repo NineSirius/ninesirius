@@ -5,7 +5,7 @@ Im a 16 years old beginner frontend developer. I create sites mostly in Nextjs, 
 - 🔭 I’m currently practice in [Discovery Studio](https://discoverystudio.org/en)
 - 🌱 I’m currently learning Python and Dart
 - 💬 Ask me about 🧑‍💻 JavaScript, 🔥 Strapi
-- 📫 How to reach me: 📧 [ruslanbulah3@gmail.com](mailto://ruslanbulah3@gmail.com),  https://t.me/godlydude
+- 📫 How to reach me: 📧 https://t.me/godlydude
 
 
 ### Skills 
