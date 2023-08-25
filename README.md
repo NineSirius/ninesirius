@@ -9,5 +9,4 @@ Im a 16 years old beginner frontend developer. I create sites mostly in Nextjs, 
 
 
 ### Skills 
-- 🌐 React/Next| Vue/Nuxt | Angular | Pinia and Redux
-- ☎️ React Native / Typescript
+- 🌐 React, Vue, TypeScript, React Native
