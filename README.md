@@ -26,8 +26,8 @@ My first web project made in HTML/CSS/JS
 
 
 ### Skills 
-Languages: HTML, CSS, JavaScript, Typescript, Python, C++
-Technologies: React, React Native, Redux, Vue, Bootstrap, Strapi, Git
-OS: Windows, Linux
+- Languages: HTML, CSS, JavaScript, Typescript, Python, C++
+- Technologies: React, React Native, Redux, Vue, Bootstrap, Strapi, Git
+- OS: Windows, Linux
 
 
