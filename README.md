@@ -1,5 +1,5 @@
 # Hi there 👋
-Im a 16 years old beginner frontend developer. I create sites mostly in Nextjs, I plan to learn dart and GO. Also I want to try to create my own game, for this I will have to learn some c# or c++. Someday, maybe I'll learn.
+Im a 17 years old beginner frontend developer. I create sites mostly in Nextjs, I plan to learn dart and GO. Also I want to try to create my own game, for this I will have to learn some c# or c++. Someday, maybe I'll learn.
 
 ### About me
 - 🌱 I’m currently learning Python and C++
