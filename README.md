@@ -3,7 +3,7 @@ Im a 17 years old beginner frontend developer. I create sites mostly in Nextjs, 
 
 ### About me
 - 🌱 I’m currently learning Python and C++
-- 📫 How to reach me: 📧 https://t.me/godlydude
+- 📫 How to reach me: 📧 https://t.me/ninesirius
 
 ## My Projects 
 ### ToDo App
