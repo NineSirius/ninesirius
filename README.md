@@ -1,5 +1,5 @@
 # Hi there 👋
-I am a 17 year old frontend developer. I mainly build websites as well as react native android apps. In the future I plan to learn C++ and make my own game and develop desktop programs. 
+I am a 18 year old frontend developer. I mainly build websites as well as react native android apps. In the future I plan to learn C++ and make my own game and develop desktop programs. 
 
 #### Not much about myself:
 I love listening to music, I like many genres but mostly I listen to classical, rock and pop. I also like pianos, but I don't have one yet. I also like to play games, my favorite games at the moment are Stardew Valley, Terraria, RE 7. And I like watching anime :3
