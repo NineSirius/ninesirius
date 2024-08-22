@@ -32,10 +32,10 @@ Like trello
 - Web: https://todo-react-rust-beta.vercel.app/
 
 ### AniBam
-I like anime. This Project based on AniLibria Api
+I like anime. This Project based on Shikimori and Kodik API
 
 - Source: https://github.com/NineSirius/anibam
-- Web: https://anibam.vercel.app/
+- Web: https://anibam.online
 - Android: soon
 
 ### Online Learning
