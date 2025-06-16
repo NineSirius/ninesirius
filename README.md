@@ -43,6 +43,10 @@ My first web project made in HTML/CSS/JS
 - Source: https://github.com/NineSirius/online-learning
 - Web: https://ninesirius.github.io/online-learning
 
+### Airbook
+My biggest project, designed it @upwardsdigital.
+- Web: https://airbook.kg
+
 # Contacts
 
 <a href="https://t.me/NineSirius"><img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.pixabay.com/photo/2021/12/27/10/50/telegram-icon-6896828_1280.png" /> <a/>
